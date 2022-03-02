@@ -1,0 +1,399 @@
+body{
+    font-family: 'League Spartan', sans-serif;
+font-family: 'PT Serif', serif;
+    background-color: white;
+}
+.container{
+    width: 1600px;
+    margin: auto;
+    background-color: rgb(237, 237, 253);
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.header_logo{
+     margin-top: 10px;
+     margin-left: 10px;
+     margin-bottom: 10px;
+     
+}
+
+.header_nav{
+    margin-left: 1050px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.header_nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    width: 20px;
+}
+.ab{
+    color: rgb(60, 57, 216);
+}
+.ab:hover{
+    text-decoration: underline;
+}
+
+.ac{
+    color: white;
+    background-color: rgb(74, 74, 235);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.ac:hover{
+    background-color: rgb(36, 36, 158);
+}
+.tittle{
+    margin: 0;
+}
+
+.bod{
+    font-size: 30px;
+    width: 40%;
+    margin: auto;
+    padding-left: 10%;
+}
+.h_1{
+    width: 100%;
+    margin-bottom: 8px;
+    padding-top:0px;
+    font-family: 'League Spartan', sans-serif;
+}
+.gt{
+    font-size: 20px;
+    
+}
+.bod img{
+width: 450px;
+margin: auto;
+}
+.tittle_button{
+      width: 100%;
+      margin: auto;
+}
+
+.button{
+
+    background-color: white;
+    font-size: 20px;
+    color: grey;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid;
+    border-width: 1px;
+    width: 50%;
+    
+}
+.bn{
+    font-size: 20px;
+    background-color: rgb(75, 75, 253);
+    color: white;
+    width: 24%;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 8px 50px;
+}
+.bn:hover{
+    background-color: rgb(65, 65, 252) ;
+}
+.container_1{
+    width: 1600px;
+    margin: auto;
+    background-color: rgb(255, 251, 251);
+}
+.support_1{
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.s_1{
+    font-size: 35px;
+}
+.s_2{
+    font-size: 20px;
+    padding-left: 300px;
+    width: 60%;
+    padding-bottom: 20px;
+}
+.s_a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(111, 111, 243);
+    background-color: white;
+    border: thin solid;
+    border-radius: 4px;
+    padding: 9px 15px;
+    border-color: rgb(111, 111, 240);
+}
+
+.s_a:hover{
+      color: white;
+      background-color: rgb(111, 111, 243);
+}
+
+.support_1 img{
+    width: 1150px;
+    margin: auto;
+}
+.support_2 img{
+    width: 40%;
+    margin: auto;
+}
+.support_3{
+    padding-top: 50px;
+    padding-left: 10%;
+    text-align: left;
+}
+.s_4{
+    font-size: 38px;
+    width: 35%;
+}
+.s_5{
+    font-size: 20px;
+    width: 38%;
+}
+.too{
+    width: 30%;
+    font-size: 20px;
+}
+.t_1{
+    padding-left: 60%;
+    width: 120%;
+    padding-top: 20px;
+}
+.t_2{
+    color: grey;
+}
+
+.too img{
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 50%;
+}
+
+.too_2{
+    width: 30%;
+    font-size: 20px;
+}
+.t_21{
+    padding-left: 50%;
+    width: 125%;
+    padding-top: 28%;
+}
+.t_3{
+    color: grey;
+}
+.too_2 img{
+    padding-left: 90%;
+    width: 100%;
+    padding-top: 30%;
+}
+.too_3{
+    width: 30%;
+    font-size: 20px;
+}
+.t_31{
+    padding-left: 60%;
+    width: 120%;
+    padding-top: 20px;
+}
+.t_4{
+    color: grey;
+}
+.too_3 img{
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 50%;
+}
+.too_4{
+    width: 30%;
+    font-size: 20px;
+}
+.t_41{
+    padding-left: 50%;
+    width: 125%;
+    padding-top: 28%;
+}
+.t_5{
+    color: grey;
+}
+.too_4 img{
+    padding-left: 90%;
+    width: 100%;
+    padding-top: 30%;
+    padding-bottom: 20%;
+}
+.fea{
+    padding-bottom: 4%;
+}
+.fea_1{
+    width: 50%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: inline-flex;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+   
+    
+}
+.fe_1{
+    width: 40%;
+    margin: 0px;
+    font-size: 19px;
+}
+.fe_1 img{
+      width: 35%;
+      
+      
+}
+.f_2{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(111, 111, 243);
+    background-color: white;
+    border: thin solid;
+    border-radius: 4px;
+    padding: 9px 15px;
+    border-color: rgb(111, 111, 240);
+    
+}
+
+.f_2:hover{
+    color: white;
+    background-color: rgb(111, 111, 243);
+    
+}
+.frame{
+    padding-top: 3%;
+    background-color: #e6fcff;
+   display: inline-flex;
+}
+.fm_1{
+    width: 45%;
+    font-size: 30px;
+    padding-right: 10px;
+    text-align: left;
+    background-color: #e6fcff;
+    border-bottom: 5px #172b4d solid;
+    position: relative;
+}
+.f_m{
+    font-size: 15px;
+    text-align: right;
+    
+}
+.reg_1{
+    display: inline-flex;
+   
+}
+
+.sg_1{
+    background-color: #4666ca;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-size: 30px;
+    width: 75%;
+    border-radius: 5px;
+    color: white;
+   padding-top: 3%;
+   padding-bottom: 3%;
+}
+.sg_1 p{
+    width: 80%;
+    padding-left: 20%;
+}
+.sg_1 a{
+    text-decoration: none;
+}
+.sg_button{
+    width: 50%;
+    padding-left: 30%;
+    margin-bottom: 1%;
+    display: inline-flex;
+}
+.sb_1{
+    color: grey;
+    background-color: white;
+    border-radius: 4px;
+    padding-right: 20%;
+    padding-left: 2%;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10%;
+    width: 80%;
+}
+.sb_2{
+    color: white;
+    background-color: #00b8d9;
+    font-size: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 4px;
+  
+}
+.sg_2{
+    display: inline-flex;
+    margin-top: 5% ;
+    padding-left: 20%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: rgb(16, 16, 114);
+    width: 80%;
+    margin-right: 10px;
+}
+.sg_2 p{
+    padding-right: 20px;
+}
+.sg_2 img{
+    width: 15%;
+    margin-right: 10px;
+}
+.ftr{
+    display: block;
+    text-align: center;
+    padding-left: 25%;
+  
+    font-size: 18px;
+}
+.ftr_1 a{
+    padding-left: 5px;
+    color: rgb(106, 106, 121);
+}
+.ftr_1 img{
+    width: 150px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.ftr_1 p{
+    font-size: 15px;
+}
+.footer_help{
+    width: 25%;
+    margin-left: 50%;
+    font-size: 20px;
+    color: grey;
+    padding-top: 8%;
+    padding-bottom: 2%;
+    
+    
+}
+.footer_help small{
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    padding: 5px;
+}
